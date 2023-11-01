@@ -1,0 +1,48 @@
+body{
+    background-color: #98DBC6;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+h1{
+    font-weight: bold;
+    border-bottom: 2px solid ;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.contenido{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 0 5px;
+    padding: 10px;
+    background-color: #5BC8AC;
+}
+
+
+label{
+    font-size: larger;
+    font-style: italic;
+    font-weight: bolder;
+}
+#seleccionado{
+    color: rgb(71, 252, 0);
+    font-weight: bold;
+}
+.boton{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: .5em;
+    
+}
+
