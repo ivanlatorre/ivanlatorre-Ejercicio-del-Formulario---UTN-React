@@ -1,2 +1,2 @@
-# ivanlatorre-Ejercicio-del-Formulario---UTN-React
-Ejercicio del Formulario
+# Ejercicio-del-Formulario---UTN-React
+## Ejercicio del Formulario - Iván Latorre
